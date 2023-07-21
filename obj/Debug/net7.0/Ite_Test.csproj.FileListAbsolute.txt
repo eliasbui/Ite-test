@@ -1,0 +1,15 @@
+C:\Users\Dthai\Desktop\Ite_Test\bin\Debug\net7.0\Ite_Test.exe
+C:\Users\Dthai\Desktop\Ite_Test\bin\Debug\net7.0\Ite_Test.deps.json
+C:\Users\Dthai\Desktop\Ite_Test\bin\Debug\net7.0\Ite_Test.runtimeconfig.json
+C:\Users\Dthai\Desktop\Ite_Test\bin\Debug\net7.0\Ite_Test.dll
+C:\Users\Dthai\Desktop\Ite_Test\bin\Debug\net7.0\Ite_Test.pdb
+C:\Users\Dthai\Desktop\Ite_Test\obj\Debug\net7.0\Ite_Test.csproj.AssemblyReference.cache
+C:\Users\Dthai\Desktop\Ite_Test\obj\Debug\net7.0\Ite_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dthai\Desktop\Ite_Test\obj\Debug\net7.0\Ite_Test.AssemblyInfoInputs.cache
+C:\Users\Dthai\Desktop\Ite_Test\obj\Debug\net7.0\Ite_Test.AssemblyInfo.cs
+C:\Users\Dthai\Desktop\Ite_Test\obj\Debug\net7.0\Ite_Test.csproj.CoreCompileInputs.cache
+C:\Users\Dthai\Desktop\Ite_Test\obj\Debug\net7.0\Ite_Test.dll
+C:\Users\Dthai\Desktop\Ite_Test\obj\Debug\net7.0\refint\Ite_Test.dll
+C:\Users\Dthai\Desktop\Ite_Test\obj\Debug\net7.0\Ite_Test.pdb
+C:\Users\Dthai\Desktop\Ite_Test\obj\Debug\net7.0\Ite_Test.genruntimeconfig.cache
+C:\Users\Dthai\Desktop\Ite_Test\obj\Debug\net7.0\ref\Ite_Test.dll
