@@ -60,15 +60,45 @@ Notes on implementation:
 
 #### Clone Project
 
-```http
+```.Net
   git clone https://github.com/Dthai16gg/Ite-test.git && cd Ite-test
 ```
 
 #### Run Project
 
-```http
+```.Net
   dotnet run
 ```
 
 ## 🔗 Solution
 [Click Here](https://github.com/Dthai16gg/Ite-test/wiki)
+## Example scenarios
+#### Scenarios 1:
+
+```.Net
+  SKUs Scanned: atv, atv, atv, vga
+  Total expected: $249.00
+```
+
+https://github.com/Dthai16gg/Ite-test/assets/88380128/9e4b7776-e9d1-4ab4-bd93-f32c7e7ad1c1
+
+
+#### Scenarios 2:
+
+```.Net
+  SKUs Scanned: atv, ipd, ipd, atv, ipd, ipd, ipd
+  Total expected: $2718.95
+```
+
+
+https://github.com/Dthai16gg/Ite-test/assets/88380128/aa256a3a-a119-4c1e-a6dc-b1a245e654f1
+
+
+#### Scenarios 3:
+```.Net
+  SKUs Scanned: mbp, vga, ipd
+  Total expected: $1949.98
+```
+
+https://github.com/Dthai16gg/Ite-test/assets/88380128/c33c3dfd-2943-4ab1-9e9c-ebcc1aa7850e
+
