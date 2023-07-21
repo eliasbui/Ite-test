@@ -69,3 +69,6 @@ Notes on implementation:
 ```http
   dotnet run
 ```
+
+## 🔗 Solution
+[Click Here](https://github.com/Dthai16gg/Ite-test/wiki)
