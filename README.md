@@ -1,5 +1,5 @@
 
-# ITE TEST EXAMP
+# ITE TEST EXAMPLE
 
 
 
